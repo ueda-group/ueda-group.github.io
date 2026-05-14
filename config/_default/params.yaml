@@ -15,17 +15,17 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Ueda Group"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka"
     # Schema.org type for structured data
-    type: person # person | organization | local_business
+    type: organization # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Tensor Networks, Quantum Algorithms, and Quantum-Classical Hybrid Computation"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Official website of the Ueda Group at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. The group studies tensor networks, quantum many-body physics, quantum algorithms, entanglement structures, and quantum-classical hybrid computation."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
+      github: "ueda-group" # GitHub handle for GitHub Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
