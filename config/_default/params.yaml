@@ -89,3 +89,6 @@ hugoblox:
 # Custom CSS
 custom_css:
   - custom.css
+
+sharing:
+  image: media/og-image.png
