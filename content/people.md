@@ -12,6 +12,6 @@ sections:
         - Researchers
         # - Graduate Students
         - Visiting Students
-        - Former Staff
-        - Alumni
+        - Former Members
+        # - Alumni
 ---
