@@ -1,0 +1,29 @@
+schema: hugoblox/author/v1
+slug: shohei-miyakoshi
+is_owner: false
+
+name:
+  display: Shohei Miyakoshi
+  given: Shohei
+  family: Miyakoshi
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+
+role: Specially Appointed Researcher
+
+bio: |
+  Research on tensor networks, quantum many-body physics,
+  and quantum algorithms.
+
+affiliations:
+  - name: Center for Quantum Information and Quantum Biology, The University of Osaka
+    url: https://qiqb.osaka-u.ac.jp/
+
+interests:
+  - Tensor Networks
+  - Quantum Many-Body Physics
+  - Quantum Algorithms
+
+user_groups:
+  - Researchers

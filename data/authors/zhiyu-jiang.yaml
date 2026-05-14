@@ -1,0 +1,60 @@
+schema: hugoblox/author/v1
+slug: zhiyu-jiang
+is_owner: false
+
+name:
+  display: Zhiyu Jiang
+  given: Zhiyu
+  family: Jiang
+  alternate: 姜 治宇
+  pronunciation: ''
+  pronouns: ''
+
+role: Specially Appointed Researcher
+
+bio: |
+  Zhiyu Jiang is a Specially Appointed Researcher at the Center for Quantum Information and Quantum Biology, The University of Osaka.
+
+  His research interests include quantum computing, quantum algorithms, tensor networks, open quantum systems, non-Hermitian systems, quantum walks, and topological phases.
+
+affiliations:
+  - name: Center for Quantum Information and Quantum Biology, The University of Osaka
+    url: https://qiqb.osaka-u.ac.jp/
+
+interests:
+  - Quantum Computing
+  - Quantum Algorithms
+  - Tensor Networks
+  - Open Quantum Systems
+  - Non-Hermitian Systems
+  - Quantum Walk
+  - Topological Phases
+
+education:
+  - degree: Ph.D. in Physics
+    institution: Hokkaido University
+    start: 2022-04-01
+    end: 2025-03-31
+
+  - degree: M.S. in Physics
+    institution: Dalian University of Technology
+    start: 2018-09-01
+    end: 2021-06-30
+
+  - degree: B.S. in Physics
+    institution: Northeastern University (China)
+    start: 2014-10-01
+    end: 2018-06-30
+
+experience:
+  - role: Specially Appointed Researcher
+    org: Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2025-07-01
+
+  - role: Academic Researcher
+    org: Faculty of Engineering, Hokkaido University
+    start: 2025-05-01
+    end: 2025-06-30
+
+user_groups:
+  - Researchers

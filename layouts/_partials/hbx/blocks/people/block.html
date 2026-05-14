@@ -1,0 +1,55 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $groups := $block.content.user_groups }}
+
+<div class="max-w-6xl mx-auto px-6">
+  {{ with $block.content.title }}
+    <h1 class="text-4xl font-bold mb-12 text-center">{{ . }}</h1>
+  {{ end }}
+
+  {{ range $group := $groups }}
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-6">{{ $group }}</h2>
+
+      <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {{ range $key, $author := site.Data.authors }}
+          {{ if in $author.user_groups $group }}
+            {{ $slug := default $key $author.slug }}
+            {{ $img := resources.GetMatch (printf "media/authors/%s.*" $slug) }}
+
+            <div class="rounded-2xl bg-white/5 p-6 shadow-lg">
+              {{ with $img }}
+                {{ $image := .Fill "300x300 Center" }}
+                <img
+                  src="{{ $image.RelPermalink }}"
+                  alt="{{ $author.name.display }}"
+                  class="mx-auto mb-4 h-40 w-40 rounded-full object-cover"
+                >
+              {{ end }}
+
+              <h3 class="text-xl font-bold text-center">
+                <a href="/authors/{{ $slug }}/">
+                  {{ $author.name.display }}
+                </a>
+              </h3>
+
+              {{ with $author.role }}
+                <p class="text-center text-primary-400 font-semibold mt-1">{{ . }}</p>
+              {{ end }}
+
+              <!-- {{ with $author.affiliations }}
+                {{ range first 1 . }}
+                  <p class="text-center text-sm opacity-80 mt-2">{{ .name }}</p>
+                {{ end }}
+              {{ end }}
+
+              {{ with $author.bio }}
+                <p class="text-sm opacity-80 mt-4">{{ . | markdownify }}</p>
+              {{ end }} -->
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+</div>

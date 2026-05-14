@@ -1,0 +1,133 @@
+schema: hugoblox/author/v1
+slug: ziyi-yang
+is_owner: false
+
+name:
+  display: Ziyi Yang
+  given: Ziyi
+  family: Yang
+  alternate: 杨子逸
+  pronunciation: ''
+  pronouns: he/him
+
+status:
+  icon: "🇨🇦"
+
+role: Visiting Undergraduate Student
+
+bio: |
+  Ziyi Yang is an undergraduate student in Mathematics and Physics
+  at the University of Toronto.
+
+  His research interests include quantum computing,
+  quantum mechanics, computational physics,
+  quantum optics, and machine learning applications in physics.
+
+  He has experience in optical and photonics experiments,
+  computational modeling, and data-driven scientific analysis.
+
+  At the Ueda Group, he is engaged in research on
+  tensor networks, quantum many-body systems,
+  and hybrid quantum-classical computation.
+
+affiliations:
+  - name: University of Toronto
+    url: https://www.utoronto.ca/
+
+links:
+  - icon: at-symbol
+    url: mailto:gojo.yang@mail.utoronto.ca
+    label: E-mail
+
+interests:
+  - Quantum Computing
+  - Quantum Mechanics
+  - Quantum Information
+  - Computational Physics
+  - Quantum Optics
+  - Tensor Networks
+  - Machine Learning
+  - Scientific Computing
+
+education:
+  - degree: Bachelor of Science in Mathematics and Physics
+    institution: University of Toronto
+    start: 2023-09-01
+    end: 2027-06-30
+    summary: |
+      Major in Mathematics and Physics.
+
+      Coursework includes quantum mechanics,
+      electromagnetism, computational physics,
+      linear algebra, group theory,
+      differential equations, and statistics.
+
+      Dean’s List Scholar with cumulative GPA 3.79/4.0.
+      :contentReference[oaicite:1]{index=1}
+
+experience:
+  - role: Visiting Undergraduate Student
+    org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2026-01-01
+    end: 2026-04-01
+    summary: |
+      Research on tensor networks,
+      quantum many-body systems,
+      and quantum-classical hybrid computation.
+
+  - role: Data Analyst Intern
+    org: MUJI Shanghai Headquarters
+    start: 2025-07-01
+    end: 2025-09-30
+    summary: |
+      Statistical modeling, machine learning,
+      and data analysis using Python, Matlab, and PowerShell.
+
+  - role: Intelligent Programming Algorithm Intern
+    org: Tokyo SMILEHOME Co., Ltd.
+    start: 2025-05-01
+    end: 2025-06-30
+    summary: |
+      Algorithm optimization, GitHub-based development,
+      and AI/LLM-related industrial applications.
+
+skills:
+  - name: Programming & Data Science
+    items:
+      - label: Python
+        level: 5
+      - label: Matlab
+        level: 4
+      - label: Machine Learning
+        level: 4
+      - label: Data Analysis
+        level: 5
+      - label: Scientific Computing
+        level: 4
+
+  - name: Physics & Research
+    items:
+      - label: Quantum Mechanics
+        level: 4
+      - label: Quantum Optics
+        level: 4
+      - label: Experimental Physics
+        level: 4
+      - label: Tensor Networks
+        level: 3
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+
+  - name: English
+    level: 4
+    label: Professional
+
+  - name: Japanese
+    level: 2
+    label: Learning
+
+user_groups:
+  - Visiting Students

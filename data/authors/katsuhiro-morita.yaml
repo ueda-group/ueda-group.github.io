@@ -1,0 +1,168 @@
+schema: hugoblox/author/v1
+slug: katsuhiro-morita
+is_owner: false
+
+name:
+  display: Katsuhiro Morita
+  given: Katsuhiro
+  family: Morita
+  alternate: 森田 克洋
+  pronunciation: ''
+  pronouns: he/him
+
+status:
+  icon: "🇯🇵"
+
+role: Former Specially Appointed Associate Professor
+
+bio: |
+  Katsuhiro Morita is a theoretical condensed matter physicist
+  specializing in quantum magnetism and strongly correlated systems.
+
+  His research focuses on quantum spin systems,
+  frustrated magnetism,
+  kagome lattice systems,
+  quantum phase transitions,
+  and finite-temperature properties of strongly correlated materials.
+
+  He has extensive experience in numerical many-body methods,
+  including DMRG,
+  exact diagonalization,
+  finite-temperature Lanczos methods,
+  cluster mean-field approaches,
+  and Monte Carlo simulations.
+
+  After his affiliation with the Ueda Group,
+  he joined Tohoku University as a tenure-track Assistant Professor.
+
+  He was affiliated with the Ueda Group as a
+  Specially Appointed Associate Professor
+  from April to June 2025.
+
+affiliations:
+  - name: Department of Physics, Tohoku University
+    url: https://www.phys.tohoku.ac.jp/
+
+links:
+  - icon: at-symbol
+    url: mailto:katsuhiro.morita.c7@tohoku.ac.jp
+    label: E-mail
+
+  - icon: link
+    url: https://morita-katsuhiro.wixsite.com/website
+    label: Personal Website
+
+interests:
+  - Quantum Magnetism
+  - Frustrated Spin Systems
+  - Kagome Lattice Physics
+  - Quantum Spin Liquids
+  - Quantum Phase Transitions
+  - Numerical Many-Body Physics
+  - Condensed Matter Theory
+  - Strongly Correlated Systems
+
+education:
+  - degree: Ph.D. in Physics
+    institution: Tohoku University
+    start: 2013-04-01
+    end: 2016-03-31
+
+  - degree: Master of Science
+    institution: Tokyo Institute of Technology
+    start: 2006-04-01
+    end: 2008-03-31
+
+  - degree: Bachelor of Science
+    institution: Gakushuin University
+    start: 2002-04-01
+    end: 2006-03-31
+
+experience:
+  - role: Assistant Professor (Tenure-Track)
+    org: Department of Physics, Tohoku University
+    start: 2025-07-01
+    summary: |
+      Research on quantum magnetism,
+      frustrated spin systems,
+      and strongly correlated quantum materials.
+
+  - role: Specially Appointed Associate Professor
+    org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2025-04-01
+    end: 2025-06-30
+    summary: |
+      Collaborative research on quantum many-body systems,
+      tensor-network-related approaches,
+      and computational condensed matter physics.
+
+  - role: Assistant Professor
+    org: Tokyo University of Science
+    start: 2021-04-01
+    end: 2025-03-31
+    summary: |
+      Research on quantum magnetism,
+      frustrated spin systems,
+      and numerical many-body physics.
+
+  - role: Project Researcher
+    org: The University of Tokyo
+    start: 2019-12-01
+    end: 2021-03-31
+
+  - role: Postdoctoral Researcher
+    org: Tokyo University of Science
+    start: 2016-04-01
+    end: 2019-11-30
+
+  - role: Engineer
+    org: Fujikura Ltd.
+    start: 2008-04-01
+    end: 2013-05-31
+    summary: |
+      Research and development of superconducting materials
+      and coated conductors.
+
+skills:
+  - name: Numerical Methods
+    items:
+      - label: DMRG
+        level: 5
+      - label: Exact Diagonalization
+        level: 5
+      - label: Finite-Temperature Lanczos
+        level: 5
+      - label: Monte Carlo Simulation
+        level: 4
+      - label: Cluster Mean-Field Methods
+        level: 4
+
+  - name: Research Areas
+    items:
+      - label: Quantum Magnetism
+        level: 5
+      - label: Frustrated Magnetism
+        level: 5
+      - label: Quantum Spin Liquids
+        level: 4
+      - label: Kagome Lattice Systems
+        level: 5
+      - label: Strongly Correlated Systems
+        level: 5
+
+awards:
+  - title: Frontier Encouragement Award
+    awarder: Strong Magnetic Field Forum
+    date: "2023-12-01"
+
+  - title: Excellent Master's Thesis Award
+    awarder: Tokyo Institute of Technology
+    date: "2008-03-01"
+
+languages:
+  - name: Japanese
+    level: 5
+    label: Native
+
+user_groups:
+  - Former Staff

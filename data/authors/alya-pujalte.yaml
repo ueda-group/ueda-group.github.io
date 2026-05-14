@@ -1,0 +1,105 @@
+schema: hugoblox/author/v1
+slug: alya-pujalte
+is_owner: false
+
+name:
+  display: Alya Pujalte
+  given: Alya
+  family: Pujalte
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+
+status:
+  icon: "🇨🇭"
+
+role: Visiting Master's Student
+
+bio: |
+  Alya Pujalte is a Master's student in theoretical physics at EPFL
+  (École Polytechnique Fédérale de Lausanne).
+
+  Her research interests include tensor network methods,
+  condensed matter physics, quantum many-body systems,
+  and machine learning approaches to topological quantum physics.
+
+  She has worked on DMRG analyses of low-energy excitations
+  in anisotropic spin chains and on machine-learning studies
+  of the Toric Code.
+
+  At the Ueda Group, she is engaged in research on tensor networks,
+  quantum many-body physics, and quantum-classical hybrid computation.
+
+affiliations:
+  - name: École Polytechnique Fédérale de Lausanne (EPFL)
+    url: https://www.epfl.ch/
+
+links:
+  - icon: at-symbol
+    url: mailto:alya.pujalte@epfl.ch
+    label: E-mail
+
+interests:
+  - Tensor Networks
+  - DMRG
+  - Matrix Product States
+  - Quantum Many-Body Physics
+  - Condensed Matter Physics
+  - Topological Quantum Physics
+  - Machine Learning
+
+education:
+  - degree: Master of Science in Theoretical Physics
+    institution: École Polytechnique Fédérale de Lausanne (EPFL)
+    start: 2024-09-01
+    end: 2026-06-30
+    summary: |
+      Master's studies in theoretical and computational quantum physics.
+
+  - degree: Bachelor of Physics
+    institution: École Polytechnique Fédérale de Lausanne (EPFL)
+    start: 2021-09-01
+    end: 2024-06-30
+    summary: |
+      Undergraduate studies in physics with training in
+      quantum physics, condensed matter physics,
+      statistical physics, and computational physics.
+
+experience:
+  - role: Visiting Master's Student
+    org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2026-04-01
+    end: 2026-09-30
+    summary: |
+      Research on tensor network methods, quantum many-body systems,
+      and hybrid quantum-classical computational approaches.
+
+skills:
+  - name: Numerical Methods
+    items:
+      - label: DMRG
+        level: 4
+      - label: Tensor Networks
+        level: 4
+      - label: Python
+        level: 5
+      - label: C++
+        level: 4
+      - label: Machine Learning
+        level: 3
+
+languages:
+  - name: French
+    level: 5
+    label: Native
+
+  - name: English
+    level: 4
+    label: C1
+
+  - name: German
+    level: 2
+    label: B1
+
+user_groups:
+  - Visiting Students

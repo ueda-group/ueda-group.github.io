@@ -1,0 +1,148 @@
+schema: hugoblox/author/v1
+slug: hiroshi-ueda
+is_owner: true
+
+name:
+  display: Hiroshi Ueda
+  given: Hiroshi
+  family: Ueda
+  alternate: 上田 宏
+  pronunciation: ''
+  pronouns: ''
+
+user_groups:
+  - Principal Investigator
+
+postnominals:
+  - PhD
+
+status:
+  icon: "☕"
+
+role: Associate Professor
+
+bio: |
+  Hiroshi Ueda is an Associate Professor at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka.
+
+  His research focuses on tensor network methods, quantum many-body physics, quantum algorithms, and quantum-classical hybrid computation. He develops theoretical and numerical approaches for understanding quantum many-body systems and for designing quantum algorithms inspired by tensor network structures.
+
+affiliations:
+  - name: Center for Quantum Information and Quantum Biology, The University of Osaka
+    url: https://qiqb.osaka-u.ac.jp/
+
+links:
+  - icon: at-symbol
+    url: mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp
+    label: E-mail
+
+  - icon: brands/github
+    url: https://github.com/ueda-group
+    label: GitHub
+
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+    label: Google Scholar
+
+  - icon: academicons/orcid
+    url: https://orcid.org/
+    label: ORCID
+
+interests:
+  - Tensor Networks
+  - Quantum Many-Body Physics
+  - Quantum Algorithms
+  - Variational Quantum Computation
+  - Quantum-Classical Hybrid Computation
+  - Quantum Information
+  - High-Performance Computing
+
+education:
+  - degree: PhD in Science
+    institution: The University of Osaka
+    start: 2009-04-01
+    end: 2011-09-20
+
+  - degree: Master of Engineering
+    institution: The University of Osaka
+    start: 2007-04-01
+    end: 2009-03-24
+
+  - degree: Bachelor of Science
+    institution: The University of Osaka
+    start: 2005-04-01
+    end: 2007-03-31
+
+experience:
+  - role: Associate Professor
+    org: Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2022-04-01
+    summary: |
+      Research on tensor network methods, quantum many-body systems, quantum algorithms, and quantum-classical hybrid computation.
+
+  - role: Specially Appointed Associate Professor
+    org: Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2020-12-01
+    end: 2022-03-31
+
+  - role: Research Scientist
+    org: RIKEN Center for Computational Science
+    start: 2016-04-01
+    end: 2020-03-31
+
+  - role: PRESTO Researcher
+    org: Japan Science and Technology Agency (JST)
+    start: 2019-10-01
+    end: 2023-03-31
+
+  - role: Assistant Professor
+    org: School of Science and Technology, Meiji University
+    start: 2015-04-01
+    end: 2016-03-31
+
+  - role: Special Postdoctoral Researcher
+    org: RIKEN
+    start: 2012-04-01
+    end: 2015-03-31
+
+skills:
+  - name: Research Areas
+    items:
+      - label: Tensor Network Methods
+        level: 5
+      - label: Quantum Many-Body Physics
+        level: 5
+      - label: Quantum Algorithms
+        level: 5
+      - label: High-Performance Computing
+        level: 4
+
+  - name: Scientific Computing
+    items:
+      - label: Fortran
+        level: 5
+      - label: Python
+        level: 4
+      - label: Quantum Circuit Simulation
+        level: 4
+
+languages:
+  - name: Japanese
+    level: 5
+    label: Native
+
+  - name: English
+    level: 4
+    label: Professional
+
+awards:
+  - title: Highly Cited Article
+    awarder: Journal of the Physical Society of Japan
+    date: "2024-03-01"
+    summary: |
+      Review article on developments in tensor network methods and quantum entanglement.
+
+  - title: Editors' Suggestion
+    awarder: Physical Review B
+    date: "2020-04-01"
+    summary: |
+      Selected paper on frustrated spin ladders and emergent quantum phenomena.

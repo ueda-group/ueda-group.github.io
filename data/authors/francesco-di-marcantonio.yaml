@@ -1,0 +1,120 @@
+schema: hugoblox/author/v1
+slug: francesco-di-marcantonio
+is_owner: false
+
+name:
+  display: Francesco Di Marcantonio
+  given: Francesco
+  family: Di Marcantonio
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+
+status:
+  icon: "🇪🇸"
+
+role: Visiting PhD Student
+
+bio: |
+  Francesco Di Marcantonio is a PhD student in Physics
+  at the University of the Basque Country (UPV/EHU)
+  and collaborates with CERN Quantum Technology Initiative (QTI).
+
+  His research focuses on tensor network methods,
+  lattice gauge theories, quantum simulation,
+  and quantum machine learning.
+
+  He has worked on real-time dynamics of gauge theories,
+  confinement phenomena, roughening transitions,
+  and quantum-kernel-based machine learning frameworks.
+
+  At the Ueda Group, he is involved in collaborative research
+  on tensor-network approaches to lattice gauge theories,
+  quantum many-body systems,
+  and Tree Tensor Network methods.
+
+affiliations:
+  - name: University of the Basque Country (UPV/EHU)
+    url: https://www.ehu.eus/
+
+links:
+  - icon: at-symbol
+    url: mailto:francesco.di.marcantonio@cern.ch
+    label: E-mail
+
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Vh0Jx4gAAAAJ
+
+interests:
+  - Tensor Networks
+  - Tree Tensor Networks
+  - Lattice Gauge Theory
+  - Quantum Simulation
+  - Quantum Machine Learning
+  - Quantum Information
+  - Quantum Many-Body Physics
+  - Computational Physics
+
+education:
+  - degree: PhD in Physics
+    institution: University of the Basque Country (UPV/EHU)
+    start: 2022-12-15
+    summary: |
+      Doctoral research in tensor networks,
+      lattice gauge theories,
+      and quantum simulation.
+
+experience:
+  - role: Visiting PhD Student
+    org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2026-04-01
+    end: 2026-09-30
+    summary: |
+      Collaborative research on tensor-network methods,
+      lattice gauge theories,
+      and quantum many-body systems.
+
+  - role: Research Collaborator
+    org: CERN Quantum Technology Initiative (QTI)
+    start: 2024-01-01
+    summary: |
+      Research on quantum simulation,
+      lattice gauge theories,
+      and quantum technologies.
+
+skills:
+  - name: Research Areas
+    items:
+      - label: Tensor Networks
+        level: 5
+      - label: Tree Tensor Networks
+        level: 4
+      - label: Lattice Gauge Theory
+        level: 5
+      - label: Quantum Simulation
+        level: 4
+      - label: Quantum Machine Learning
+        level: 4
+      - label: Computational Physics
+        level: 5
+
+  - name: Programming & Numerical Methods
+    items:
+      - label: Python
+        level: 5
+      - label: Scientific Computing
+        level: 5
+      - label: Numerical Simulation
+        level: 5
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+
+  - name: English
+    level: 4
+    label: Professional
+
+user_groups:
+  - Visiting Students

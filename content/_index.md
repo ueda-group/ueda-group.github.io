@@ -1,91 +1,120 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: Ueda Group
 summary: ''
 date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+
+  # =========================================================
+  # HERO
+  # =========================================================
+  - block: hero
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+      title: Ueda Group
+      text: |-
+        Quantum Many-Body Physics, Tensor Networks, and Quantum Algorithms
+        <br><br>
+        We develop theoretical, numerical, and quantum-classical hybrid approaches for understanding quantum systems and designing quantum algorithms.
+
+      primary_action:
+        text: Research
+        url: research/
+
+      secondary_action:
+        text: Publications
+        url: publications/
+
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
 
-      # Name heading sizing to accommodate long or short names
-      name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+  # =========================================================
+  # RESEARCH OVERVIEW
+  # =========================================================
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: Research
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        The Ueda Group focuses on tensor network methods, quantum many-body physics, quantum algorithms, and quantum-classical hybrid computation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        We develop numerical and theoretical methods for strongly correlated systems, quantum entanglement, variational quantum computation, and quantum-HPC hybrid workflows.
 
-        Please reach out to collaborate 😃
+        Our research connects condensed matter physics, quantum information, and high-performance computing.
+
     design:
       columns: '1'
-  - block: collection
-    id: papers
+
+  # =========================================================
+  # RESEARCH TOPICS
+  # =========================================================
+  - block: markdown
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
+      title: Research Topics
+      subtitle: ''
+      text: |-
+        - **Tensor Networks:** Development and optimization of tensor network methods for quantum and classical many-body systems.
+
+        - **Quantum Algorithms:** Design of quantum algorithms inspired by entanglement structures and tensor network representations.
+
+        - **Quantum-Classical Hybrid Computation:** Variational quantum algorithms, tensor-network ansätze, and hybrid workflows for near-term quantum devices.
+
+        - **Quantum HPC:** Integration of quantum computing, high-performance computing, and numerical many-body methods.
+
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
+
+  # =========================================================
+  # PUBLICATIONS
+  # =========================================================
   - block: collection
     content:
       title: Recent Publications
       text: ''
+      count: 5
+
       filters:
         folders:
           - publications
+
         exclude_featured: false
+
     design:
       view: citation
+
+  # =========================================================
+  # TALKS
+  # =========================================================
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Upcoming Talks
+
       filters:
         folders:
           - events
+
+        exclude_past: true
+
     design:
       view: card
+
+  # =========================================================
+  # NEWS
+  # =========================================================
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
+
+      page_type: news
       count: 10
-      # Filter on criteria
+
       filters:
         author: ''
         category: ''
@@ -94,34 +123,13 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ''
-      # Choose how many pages you would like to offset by
+
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
+
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
+
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by HugoBlox Kit - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/kit" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/kit on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---

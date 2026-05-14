@@ -1,0 +1,134 @@
+schema: hugoblox/author/v1
+slug: rito-furuchi
+is_owner: false
+
+name:
+  display: Rito Furuchi
+  given: Rito
+  family: Furuchi
+  alternate: 古内 理人
+  pronunciation: ''
+  pronouns: he/him
+
+status:
+  icon: "🇯🇵"
+
+role: Former Specially Appointed Researcher
+
+bio: |
+  Rito Furuchi is a researcher in condensed matter physics,
+  frustrated quantum magnetism,
+  and quantum simulation using Rydberg atom systems.
+
+  His research focuses on numerical studies of
+  low-dimensional quantum spin systems,
+  frustrated Heisenberg antiferromagnets,
+  ferrimagnetism,
+  spin nematic phases,
+  and magnetization plateaus.
+
+  After his affiliation with the Ueda Group,
+  he joined Kindai University as a researcher.
+
+  He was affiliated with the Ueda Group as a
+  Specially Appointed Researcher (part-time)
+  from February to March 2025.
+
+affiliations:
+  - name: Faculty of Science and Engineering, Kindai University
+    url: https://www.kindai.ac.jp/
+
+links:
+  - icon: at-symbol
+    url: mailto:rfuruchi@phys.kindai.ac.jp
+    label: E-mail
+
+  - icon: academicons/orcid
+    url: https://researchmap.jp/frustrated_magmagmag
+
+interests:
+  - Frustrated Magnetism
+  - Quantum Spin Systems
+  - Heisenberg Antiferromagnets
+  - Rydberg Atom Systems
+  - Quantum Simulation
+  - Numerical Diagonalization
+  - Spin Nematic Phases
+  - Magnetization Plateaus
+  - Condensed Matter Physics
+
+education:
+  - degree: Ph.D. in Science
+    institution: University of Hyogo
+    start: 2021-04-01
+    end: 2024-03-31
+    summary: |
+      Dissertation:
+      "Theoretical Study of Frustrated Magnetism on Pentagonal Lattices"
+
+  - degree: Master's Program in Material Science
+    institution: University of Hyogo
+    start: 2019-04-01
+    end: 2021-03-31
+
+  - degree: Bachelor's Program in Material Science
+    institution: University of Hyogo
+    start: 2015-04-01
+    end: 2019-03-31
+
+experience:
+  - role: Researcher
+    org: Kindai University
+    start: 2025-04-01
+    summary: |
+      Research on Rydberg atom systems
+      and quantum simulation.
+
+  - role: Specially Appointed Researcher (Part-time)
+    org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2025-02-01
+    end: 2025-03-31
+    summary: |
+      Collaborative research on quantum many-body systems
+      and computational condensed matter physics.
+
+  - role: Assistant Professor (Part-time)
+    org: Graduate School of Science, University of Hyogo
+    start: 2024-04-01
+    end: 2025-03-31
+    summary: |
+      Research on frustrated quantum magnetism
+      and computational condensed matter physics.
+
+skills:
+  - name: Numerical Methods
+    items:
+      - label: Numerical Diagonalization
+        level: 5
+      - label: Quantum Spin Models
+        level: 5
+      - label: Computational Physics
+        level: 5
+      - label: Python
+        level: 4
+      - label: Fortran
+        level: 4
+
+  - name: Software & Libraries
+    items:
+      - label: TITPACK
+        level: 5
+      - label: TeNeS
+        level: 3
+      - label: ALPS
+        level: 3
+      - label: DSQSS
+        level: 3
+
+languages:
+  - name: Japanese
+    level: 5
+    label: Native
+
+user_groups:
+  - Former Staff
