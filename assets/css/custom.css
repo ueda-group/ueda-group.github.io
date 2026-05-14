@@ -23,3 +23,17 @@ section[id*="Members"] a:hover,
 .members a:hover {
   text-decoration: underline;
 }
+
+/* =========================================================
+   Footer cleanup
+   Hide HugoBlox footer attribution and CTA
+   ========================================================= */
+
+.site-footer [data-hbx="poweredby_brand"],
+.site-footer [data-hbx="poweredby_cta"] {
+  display: none !important;
+}
+
+.site-footer p:has([data-hbx="poweredby_brand"]) {
+  display: none !important;
+}
