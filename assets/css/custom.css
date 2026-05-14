@@ -1,0 +1,25 @@
+/* =========================================================
+   Ueda Group custom styles
+   ========================================================= */
+
+/* Make member/profile links visibly clickable */
+#people a,
+section[id*="people"] a,
+section[id*="member"] a,
+section[id*="People"] a,
+section[id*="Members"] a,
+.people a,
+.members a {
+  cursor: pointer !important;
+}
+
+/* Underline member links on hover */
+#people a:hover,
+section[id*="people"] a:hover,
+section[id*="member"] a:hover,
+section[id*="People"] a:hover,
+section[id*="Members"] a:hover,
+.people a:hover,
+.members a:hover {
+  text-decoration: underline;
+}
