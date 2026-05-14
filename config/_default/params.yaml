@@ -92,3 +92,13 @@ custom_css:
 
 sharing:
   image: media/og-image.png
+  twitter_image: media/og-image.png
+
+marketing:
+  seo:
+    site_type: ResearchGroup
+    local_business_type: ''
+    org_name: 'Ueda Group'
+    description: 'Official website of the Ueda Group'
+    twitter: 'GetResearchDev'
+    image: 'media/og-image.png'
