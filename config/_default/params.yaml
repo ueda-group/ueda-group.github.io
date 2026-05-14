@@ -91,4 +91,4 @@ custom_css:
   - custom.css
 
 sharing:
-  image: assets/media/og-image.png
+  image: media/og-image.png
