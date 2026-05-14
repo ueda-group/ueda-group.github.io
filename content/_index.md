@@ -88,19 +88,19 @@ sections:
   # =========================================================
   # TALKS
   # =========================================================
-  - block: collection
-    id: talks
-    content:
-      title: Upcoming Talks
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Upcoming Talks
 
-      filters:
-        folders:
-          - events
+  #     filters:
+  #       folders:
+  #         - events
 
-        exclude_past: true
+  #       exclude_past: true
 
-    design:
-      view: card
+  #   design:
+  #     view: card
 
   # =========================================================
   # NEWS
