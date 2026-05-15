@@ -87,3 +87,19 @@ section[id*="Members"] a:hover,
 a[id^="share-link-"] {
   display: none !important;
 }
+
+/* Compact top titles on section pages */
+body:not(.home) h1 {
+  font-size: 2.6rem !important;
+  line-height: 1.15 !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Avoid overly large prose headings in section index pages */
+.prose h1,
+.prose h2:first-child {
+  font-size: 2.4rem !important;
+  line-height: 1.2 !important;
+}
