@@ -96,6 +96,17 @@ Yoshiaki Shimada
 <h2 class="projects-section-title">Past Projects</h2>
 
 <div class="project-entry">
+<div class="project-title">Theoretical Study of Magnetization Processes in Quantum Spin Systems under Extreme Environments</div>
+<div class="project-meta">
+<div><strong>Period:</strong> 2025-04 – 2029-03</div>
+<div><strong>Funding:</strong> Japan Society for the Promotion of Science (JSPS)</div>
+<div><strong>Program:</strong> Grant-in-Aid for Scientific Research (C)</div>
+<div><strong>Role:</strong> PI</div>
+<div><strong>Investigators:</strong> <a href="/authors/katsuhiro-morita/">Katsuhiro Morita</a></div>
+</div>
+</div>
+
+<div class="project-entry">
 <div class="project-title">Next-Generation Quantum Many-Body Simulation Algorithms for Practical Quantum Computing</div>
 <div class="project-meta">
 <div><strong>Period:</strong> 2024-04 – 2026-03</div>

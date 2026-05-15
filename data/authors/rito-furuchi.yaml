@@ -43,8 +43,8 @@ links:
     url: mailto:rfuruchi@phys.kindai.ac.jp
     label: E-mail
 
-  - icon: academicons/orcid
-    url: https://researchmap.jp/frustrated_magmagmag
+  # - icon: academicons/cv
+  #   url: https://researchmap.jp/frustrated_magmagmag
 
 interests:
   - Frustrated Magnetism

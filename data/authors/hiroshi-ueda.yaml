@@ -35,16 +35,15 @@ links:
     url: mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp
     label: E-mail
 
-  - icon: brands/github
-    url: https://github.com/ueda-group
-    label: GitHub
+  - icon: academicons/cv
+    url: https://researchmap.jp/hiroshi_ueda
 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.jp/citations?user=rkyBxxUAAAAJ&hl
     label: Google Scholar
 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-9561-0933
     label: ORCID
 
 interests:
