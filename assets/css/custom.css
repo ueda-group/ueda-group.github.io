@@ -82,3 +82,8 @@ section[id*="Members"] a:hover,
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* Hide default social share buttons on article pages */
+a[id^="share-link-"] {
+  display: none !important;
+}
