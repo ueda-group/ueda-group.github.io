@@ -32,6 +32,31 @@ type: page
 </div>
 
 <div class="project-entry">
+<div class="project-title">Quantum HPC Application Collaboration Hub</div>
+<div class="project-meta">
+<div><strong>Period:</strong> 2025-04 – 2030-03</div>
+<div><strong>Funding:</strong> Center of Excellence (COE) Program for Computational Science Research and Education, FOCUS (Foundation for Computational Science)</div>
+<div><strong>Program:</strong> Project 3 “Quantum HPC Application Collaboration Hub”</div>
+<div><strong>Role:</strong> External Collaborator</div>
+<div><strong>Investigators:</strong> 
+<a href="/authors/seiji-yunoki/">Seiji Yunoki</a>, 
+Takahito Nakajima, 
+Yuji Sugita, 
+Makoto Tsubokura, 
+Yasumichi Aoki, 
+Hirofumi Tomita, 
+Yasushi Okuno, 
+William Dawson, 
+Mohamed Wahib, 
+Miwako Tsuji, 
+<a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a>, 
+Ikuto Takii, 
+Norio Otsuka, 
+</div>
+</div>
+</div>
+
+<div class="project-entry">
 <div class="project-title">Quantum-Classical Hybrid Approaches Mediated by Tensor Networks</div>
 <div class="project-meta">
 <div><strong>Period:</strong> 2024-10 – 2030-03</div>
@@ -146,6 +171,25 @@ Yoshiaki Shimada
 <div><strong>Program:</strong> Grants-in-Aid for Scientific Research Grant-in-Aid for Transformative Research Areas (A)</div>
 <div><strong>Role:</strong> Co-I</div>
 <div><strong>Investigators:</strong> Kouichi Okunishi, <a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a>, Hosho Katsura, Chisa Hotta, Kenji Harada</div>
+</div>
+</div>
+
+<div class="project-entry">
+<div class="project-title">Interdisciplinary Computational Science Based on Tensor-Network Schemes</div>
+<div class="project-meta">
+<div><strong>Period:</strong> 2021-04 – 2025-03</div>
+<div><strong>Funding:</strong> Center of Excellence (COE) Program for Computational Science Research and Education, FOCUS (Foundation for Computational Science)</div>
+<div><strong>Program:</strong> Project 4 “Interdisciplinary Computational Science Research Based on Tensor-Network (TN) Schemes”</div>
+<div><strong>Role:</strong> Co-I</div>
+<div><strong>Investigators:</strong> 
+<a href="/authors/seiji-yunoki/">Seiji Yunoki</a>, 
+Takahito Nakajima, 
+Toshiyuki Imamura, 
+Yasumichi Aoki, 
+Tomotoshi Nishino, 
+Toru Sakai, 
+<a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a>
+</div>
 </div>
 </div>
 
