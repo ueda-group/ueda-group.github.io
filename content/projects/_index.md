@@ -39,7 +39,7 @@ type: page
 <div><strong>Program:</strong> Project 3 “Quantum HPC Application Collaboration Hub”</div>
 <div><strong>Role:</strong> External Collaborator</div>
 <div><strong>Investigators:</strong> 
-<a href="/authors/seiji-yunoki/">Seiji Yunoki</a>, 
+Seiji Yunoki, 
 Takahito Nakajima, 
 Yuji Sugita, 
 Makoto Tsubokura, 
@@ -182,7 +182,7 @@ Yoshiaki Shimada
 <div><strong>Program:</strong> Project 4 “Interdisciplinary Computational Science Research Based on Tensor-Network (TN) Schemes”</div>
 <div><strong>Role:</strong> Co-I</div>
 <div><strong>Investigators:</strong> 
-<a href="/authors/seiji-yunoki/">Seiji Yunoki</a>, 
+Seiji Yunoki, 
 Takahito Nakajima, 
 Toshiyuki Imamura, 
 Yasumichi Aoki, 
@@ -200,7 +200,7 @@ Toru Sakai,
 <div><strong>Funding:</strong> Japan Society for the Promotion of Science (JSPS)</div>
 <div><strong>Program:</strong> Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research (A)</div>
 <div><strong>Role:</strong> Co-I</div>
-<div><strong>Investigators:</strong> <a href="/authors/seiji-yunoki/">Seiji Yunoki</a>, <a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a>, Shigetoshi Sota, Hiroaki Matsueda</div>
+<div><strong>Investigators:</strong> Seiji Yunoki, <a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a>, Shigetoshi Sota, Hiroaki Matsueda</div>
 </div>
 </div>
 
