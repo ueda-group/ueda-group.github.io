@@ -1,27 +1,22 @@
 ---
-title: "New arXiv Paper by Miyakoshi et al."
-date: 2026-05-09
+title: "Invited Seminar on Entanglement Structures in Quantum Many-Body Systems"
+date: 2026-06-12
 authors:
-  - shohei-miyakoshi
   - hiroshi-ueda
-summary: "A new paper on variational quantum SVD has been posted on arXiv."
+summary: "Hiroshi Ueda delivered an invited seminar on tensor networks, entanglement structures, and quantum–classical hybrid approaches for quantum many-body systems."
 tags:
-  - arXiv
-  - Quantum Algorithms
+  - Invited talk
+  - Quantum Many-Body Physics
   - Tensor Networks
+  - Entanglement
 ---
 
-A new paper by Shohei Miyakoshi,
-Takanori Sugimoto,
-Tomonori Shirakawa,
-Seiji Yunoki,
-and Hiroshi Ueda
-has been posted on arXiv.
+Hiroshi Ueda delivered an invited seminar at the Solid State Physics Seminar (FY2026, 1st Seminar) held at the Graduate School of Engineering Science, The University of Osaka.
 
-Title:
-"High-Precision Variational Quantum SVD via Classical Orthogonality Correction"
+The seminar, entitled "Understanding Entanglement Structures in Quantum Many-Body Systems and Their Applications", reviewed recent developments in tensor-network methods and their applications to quantum many-body physics.
 
-The work proposes a hybrid quantum-classical framework
-for variational singular value decomposition
-and entanglement spectrum estimation
-based on tensor-network-inspired approaches.
+The talk discussed how entanglement structures provide a powerful framework for understanding quantum phases and phase transitions beyond conventional symmetry-breaking paradigms, including topological phases and quantum spin liquids. Recent advances in tensor-network approaches, such as matrix product states and symmetry-based classifications of quantum phases, were also introduced.
+
+The seminar further highlighted emerging quantum–classical hybrid approaches that combine tensor-network techniques with quantum computing, aiming to tackle large-scale and higher-dimensional quantum many-body problems.
+
+The event brought together students and researchers in condensed-matter physics and related fields, fostering interdisciplinary discussions on modern approaches to quantum many-body systems.
