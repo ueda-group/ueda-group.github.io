@@ -2,6 +2,7 @@
 title: "New arXiv Paper by Jiang and Ueda"
 date: 2026-06-22
 authors:
+  - zhiyu-jiang
   - hiroshi-ueda
 summary: "A new paper on isometrization of tensor-network states via gauge propagation has been posted on arXiv."
 tags:
