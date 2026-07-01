@@ -13,5 +13,6 @@ sections:
         # - Graduate Students
         - Visiting Students
         - Former Members
+        - Former Visiting Students
         # - Alumni
 ---

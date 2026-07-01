@@ -13,7 +13,7 @@ name:
 status:
   icon: ""
 
-role: Visiting PhD Student
+role: Former Visiting PhD Student
 
 bio: |
   Francesco Di Marcantonio is a PhD student in Physics
@@ -28,10 +28,7 @@ bio: |
   confinement phenomena, roughening transitions,
   and quantum-kernel-based machine learning frameworks.
 
-  At the Ueda Group, he is involved in collaborative research
-  on tensor-network approaches to lattice gauge theories,
-  quantum many-body systems,
-  and Tree Tensor Network methods.
+  Francesco visited the Ueda Group as a PhD internship student from April to June 2026, working on collaborative research on tensor-network approaches to lattice gauge theories, quantum many-body systems, and Tree Tensor Network methods.
 
 affiliations:
   - name: University of the Basque Country (UPV/EHU)
@@ -68,7 +65,7 @@ experience:
   - role: Visiting PhD Student
     org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
     start: 2026-04-01
-    end: 2026-09-30
+    end: 2026-06-30
     summary: |
       Collaborative research on tensor-network methods,
       lattice gauge theories,
@@ -117,4 +114,4 @@ languages:
     label: Professional
 
 user_groups:
-  - Visiting Students
+  - Former Visiting Students
