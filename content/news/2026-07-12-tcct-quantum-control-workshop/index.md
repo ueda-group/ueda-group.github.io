@@ -5,7 +5,7 @@ authors:
   - zhiyu-jiang
 summary: "Zhiyu Jiang gave a talk on isometrization of tensor-network states via gauge propagation at the 13th TCCT Quantum Control Workshop."
 tags:
-  - Invited Talk
+  - Contributed Talk
   - Tensor Networks
   - Quantum Control
   - Quantum Many-Body Physics
