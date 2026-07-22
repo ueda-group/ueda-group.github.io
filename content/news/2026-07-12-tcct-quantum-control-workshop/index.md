@@ -1,17 +1,14 @@
 ---
-
 title: "Zhiyu Jiang Presents at the 13th TCCT Quantum Control Workshop"
 date: 2026-07-12
 authors:
-
-* zhiyu-jiang
-  summary: "Zhiyu Jiang gave a talk on isometrization of tensor-network states via gauge propagation at the 13th TCCT Quantum Control Workshop."
-  tags:
-* Invited Talk
-* Tensor Networks
-* Quantum Control
-* Quantum Many-Body Physics
-
+  - zhiyu-jiang
+summary: "Zhiyu Jiang gave a talk on isometrization of tensor-network states via gauge propagation at the 13th TCCT Quantum Control Workshop."
+tags:
+  - Invited Talk
+  - Tensor Networks
+  - Quantum Control
+  - Quantum Many-Body Physics
 ---
 
 Zhiyu Jiang gave a talk at the 13th TCCT Quantum Control Workshop held in Shenyang.
