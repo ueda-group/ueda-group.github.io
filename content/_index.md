@@ -113,7 +113,7 @@ sections:
       text: ''
 
       page_type: news
-      count: 10
+      count: 5
 
       filters:
         author: ''
