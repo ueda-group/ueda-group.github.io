@@ -13,7 +13,7 @@ name:
 status:
   icon: ""
 
-role: Visiting Undergraduate Student
+role: Former Visiting Student
 
 bio: |
   Ziyi Yang is an undergraduate student in Mathematics and Physics
@@ -26,7 +26,8 @@ bio: |
   He has experience in optical and photonics experiments,
   computational modeling, and data-driven scientific analysis.
 
-  At the Ueda Group, he is engaged in research on
+  Ziyi visited the Ueda Group through the FrontierLab program
+  from April to August 2026, where he worked on
   tensor networks, quantum many-body systems,
   and hybrid quantum-classical computation.
 
@@ -62,18 +63,18 @@ education:
       linear algebra, group theory,
       differential equations, and statistics.
 
-      Dean’s List Scholar with cumulative GPA 3.79/4.0.
-      :contentReference[oaicite:1]{index=1}
+      Dean's List Scholar with cumulative GPA 3.79/4.0.
 
 experience:
   - role: Visiting Undergraduate Student
     org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
-    start: 2026-01-01
-    end: 2026-04-01
+    start: 2026-04-01
+    end: 2026-08-10
     summary: |
       Research on tensor networks,
       quantum many-body systems,
-      and quantum-classical hybrid computation.
+      and quantum-classical hybrid computation
+      through the FrontierLab program.
 
   - role: Data Analyst Intern
     org: MUJI Shanghai Headquarters
@@ -130,4 +131,4 @@ languages:
     label: Learning
 
 user_groups:
-  - Visiting Students
+  - Former Visiting Students
