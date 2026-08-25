@@ -11,7 +11,7 @@ sections:
         - Principal Investigator
         - Researchers
         # - Graduate Students
-        - Visiting Students
+        # - Visiting Students
         - Former Members
         - Former Visiting Students
         # - Alumni

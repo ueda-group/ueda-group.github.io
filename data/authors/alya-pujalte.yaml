@@ -13,7 +13,7 @@ name:
 status:
   icon: ""
 
-role: Visiting Master's Student
+role: Former Visiting Student
 
 bio: |
   Alya Pujalte is a Master's student in theoretical physics at EPFL
@@ -27,8 +27,9 @@ bio: |
   in anisotropic spin chains and on machine-learning studies
   of the Toric Code.
 
-  At the Ueda Group, she is engaged in research on tensor networks,
-  quantum many-body physics, and quantum-classical hybrid computation.
+  Alya visited the Ueda Group from April to August 2026,
+  where she worked on tensor networks, quantum many-body physics,
+  and quantum-classical hybrid computation.
 
 affiliations:
   - name: École Polytechnique Fédérale de Lausanne (EPFL)
@@ -69,7 +70,7 @@ experience:
   - role: Visiting Master's Student
     org: Ueda Group, Center for Quantum Information and Quantum Biology, The University of Osaka
     start: 2026-04-01
-    end: 2026-09-30
+    end: 2026-08-24
     summary: |
       Research on tensor network methods, quantum many-body systems,
       and hybrid quantum-classical computational approaches.
@@ -102,4 +103,4 @@ languages:
     label: B1
 
 user_groups:
-  - Visiting Students
+  - Former Visiting Students
