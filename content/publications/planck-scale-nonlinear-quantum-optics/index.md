@@ -1,5 +1,5 @@
 ---
-title: "The detection of Planck-scale physics facilitated by nonlinear quantum optics"
+title: "Detection of Planck-scale physics facilitated by nonlinear quantum optics"
 
 authors:
   - Wenlin Li
@@ -8,21 +8,21 @@ authors:
   - Zhiyu Jiang
   - Xingli Li
 
-date: 2025-10-09
+date: 2026-05-20
 
-publication_types: ["preprint"]
+publication_types: ["article-journal"]
 
-publication: "arXiv:2510.07844 [quant-ph]"
+publication: "Physical Review A 113, 053526 (2026)"
 
-doi: "10.48550/arXiv.2510.07844"
+doi: "10.1103/w633-2fj2"
 
 abstract: |
-  A fully quantum model is presented for measuring the nonstationary dynamics of a ng-mass mechanical resonator, where possible deviations from standard quantum mechanics arise from modified commutation relations associated with quantum gravity effects. The deformed commutator is quantified through an oscillation frequency deviation amplified by nonlinear quantum optical mechanisms.
+  A fully quantum model is presented for measuring the nonstationary dynamics of a nanogram-mass mechanical resonator, where possible deviations from standard quantum mechanics arise from modified commutation relations associated with quantum gravity effects. The resulting oscillation-frequency deviation is amplified using nonlinear quantum optical mechanisms.
 
 featured: false
 
 summary: |
-  arXiv preprint on probing Planck-scale physics using nonlinear quantum optics.
+  Quantum-optical approach to probing Planck-scale physics through nonlinear enhancement of modified quantum-mechanical effects.
 
 tags:
   - Quantum Optics
@@ -34,7 +34,7 @@ image:
   caption: ""
   focal_point: "Center"
 
-url_pdf: "https://arxiv.org/pdf/2510.07844"
+url_pdf: "https://journals.aps.org/pra/pdf/10.1103/w633-2fj2"
 url_code: ""
 url_dataset: ""
 url_slides: ""
