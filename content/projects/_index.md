@@ -10,6 +10,18 @@ type: page
 <h2 class="projects-section-title">Ongoing Projects</h2>
 
 <div class="project-entry">
+<div class="project-title">Sector-Wise Structural Optimization for Tree Tensor Networks</div>
+<div class="project-meta">
+<div><strong>Period:</strong> 2026-10 – 2027-09</div>
+<div><strong>Funding:</strong> Japan Science and Technology Agency (JST)</div>
+<div><strong>Program:</strong> LOTUS Programme (LOTUS Basic)</div>
+<div><strong>Japanese PI:</strong> <a href="/authors/hiroshi-ueda/">Hiroshi Ueda</a></div>
+<div><strong>Indian PI:</strong> Siddhartha Patra (CQuERE, TCG CREST)</div>
+<div><strong>Invitee:</strong> Sayantan Dey (CQuERE, TCG CREST)</div>
+</div>
+</div>
+
+<div class="project-entry">
 <div class="project-title">Electric-Field-Active Magnetic Excitations in Frustrated Quantum Spin Systems</div>
 <div class="project-meta">
 <div><strong>Period:</strong> 2026-04 – 2029-03</div>
