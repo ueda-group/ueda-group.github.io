@@ -42,6 +42,7 @@ type: page
 <div><strong>Investigators:</strong> <a href="/authors/shohei-miyakoshi/">Shohei Miyakoshi</a>
 </div>
 </div>
+</div>
 
 <div class="project-entry">
 <div class="project-title">Quantum HPC Application Collaboration Hub</div>
@@ -151,6 +152,7 @@ Yoshiaki Shimada
 <div><strong>Program:</strong> Grant-in-Aid for Early-Career Scientists</div>
 <div><strong>Role:</strong> PI </div>
 <div><strong>Investigators:</strong> <a href="/authors/shohei-miyakoshi/">Shohei Miyakoshi</a>
+</div>
 </div>
 </div>
 
