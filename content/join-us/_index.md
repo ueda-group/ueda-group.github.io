@@ -80,7 +80,7 @@ sections:
 
         Representative publications:
 
-        - [High-Precision Variational Quantum SVD via Classical Orthogonality Correction](/publications/vqsvd/)
+        - [High-Precision Variational Quantum SVD via Classical Orthogonality Correction](/publications/vqsd-orthogonality-correction/)
         - [Automatic Quantum Circuit Encoding (AQCE)](/publications/aqce/)
         - [Tree Tensor Network Optimization](/publications/ttnopt/)
 
