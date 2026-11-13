@@ -26,7 +26,7 @@ sections:
         Center for Quantum Information and Quantum Biology (QIQB)  
         The University of Osaka
 
-        Email: hiroshi.ueda.qiqb [at] osaka-u.ac.jp
+        Email: ueda.hiroshi.qiqb [at] osaka-u.ac.jp
 
     design:
       columns: '1'
