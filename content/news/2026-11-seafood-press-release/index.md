@@ -22,7 +22,7 @@ SEAFOOD was developed based on collaborative research led by Susumu Date at the 
 
 [Read the full press release on the QIQB website](https://qiqb.osaka-u.ac.jp/newstopics/pr20261109)
 
-## Institutional and Related Announcements
+### Institutional and Related Announcements
 
 - [Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka](https://qiqb.osaka-u.ac.jp/newstopics/pr20261109)
 - [D3 Center, The University of Osaka](https://www.d3c.osaka-u.ac.jp/2026/11/public-20281109/)
@@ -30,10 +30,10 @@ SEAFOOD was developed based on collaborative research led by Susumu Date at the 
 - [D3 Center High Performance Computing System](https://www.hpc.cmc.osaka-u.ac.jp/news/20261109/)
 - [Quantum Software Research Hub (QSRH)](https://qsrh.jp/news/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%EF%BC%BC%E3%82%B9%E3%83%91%E3%82%B3%E3%83%B3x%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC/)
 - [Q-Portal, RIKEN](https://q-portal.riken.jp/)
-- [Quantum Technology Innovation Hubs (QIH), RIKEN](https://qih.riken.jp/archive.html)
+- [Quantum Technology Innovation Hubs (QIH), RIKEN](https://qih.riken.jp/en/archive.html)
 - [SIP3 Quantum, National Institutes for Quantum Science and Technology (QST)](https://www.qst.go.jp/site/sip3/)
 
-## International Science News and Press-Release Distribution
+### International Science News and Press-Release Distribution
 
 - [Asia Research News](https://www.asiaresearchnews.com/content/japan-developed-quantum-computers-join-forces-supercomputer-university-osaka-%E2%80%93-first-japan)
 - [EurekAlert!](https://www.eurekalert.org/news-releases/1151265)
@@ -44,10 +44,11 @@ SEAFOOD was developed based on collaborative research led by Susumu Date at the 
 - [Scienmag](https://scienmag.com/university-of-osaka-integrates-domestic-quantum-computer-with-octopus-supercomputer-platform/)
 - [QuantumWire](https://quantumwire.com/index.php/article/17944128518023.html)
 
-## Secondary Coverage and Commentary
+### Secondary Coverage and Commentary
 
 - [The Quantum Insider — “SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu”](https://thequantuminsider.com/2026/11/11/seafood-puts-octopus-and-quantum-computers-on-the-same-menu/)
 - [Mindplex — “Osaka team links quantum computers and a supercomputer in a first for Japan”](https://magazine.mindplex.ai/post/osaka-team-links-quantum-computers-and-a-supercomputer-in-a-first-for-japan)
 - [Quantum Unzipped — “SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu”](https://quantumunzipped.com/briefings/seafood-puts-octopus-and-quantum-computers-on-the-same-menu-2)
-- [Singularity Daily — Korean-language summary/reconstruction](https://singularitydaily.com/articles/japan-developed-quantum-computers-join-forces-with-a-supercomputer-at-the-university-of-osaka)
-- [The Qubit Report — November 10, 2026 news roundup](https://thequbitreport.com/uncategorized/2026/11/10/the-qubit-report-november-10-2026/)
+- [Singularity Daily — Korean-language summary and commentary](https://singularitydaily.com/articles/japan-developed-quantum-computers-join-forces-with-a-supercomputer-at-the-university-of-osaka)
+- [The Qubit Report — November 10, 2026 roundup](https://thequbitreport.com/uncategorized/2026/11/10/the-qubit-report-november-10-2026/)
+- [AISeng Tech — Quantum Brief, November 11, 2026](https://aisengtech.com/quantum-brief-2026-11-11/)
