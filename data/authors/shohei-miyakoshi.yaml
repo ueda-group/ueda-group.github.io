@@ -10,10 +10,14 @@ name:
   pronunciation: ''
   pronouns: ''
 
-role: Specially Appointed Researcher
+role: Specially Appointed Assistant Professor
 
 bio: |
-  Research on tensor networks, quantum many-body physics,
+  Shohei Miyakoshi is a Specially Appointed Assistant Professor
+  at the Center for Quantum Information and Quantum Biology,
+  The University of Osaka.
+
+  His research focuses on tensor networks, quantum many-body physics,
   and quantum algorithms.
 
 affiliations:
@@ -25,5 +29,10 @@ interests:
   - Quantum Many-Body Physics
   - Quantum Algorithms
 
+experience:
+  - role: Specially Appointed Assistant Professor
+    org: Center for Quantum Information and Quantum Biology, The University of Osaka
+    start: 2026-10-01
+
 user_groups:
-  - Researchers
+  - Faculty
