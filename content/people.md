@@ -9,6 +9,7 @@ sections:
 
       user_groups:
         - Principal Investigator
+        - Faculty
         - Researchers
         # - Graduate Students
         # - Visiting Students
