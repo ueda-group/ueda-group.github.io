@@ -1,7 +1,7 @@
 ---
 title: "Press Release: UOsaka Launches the SEAFOOD Quantum–HPC Platform"
 date: 2026-11-09
-lastmod: 2026-11-14
+lastmod: 2026-11-15
 authors:
   - hiroshi-ueda
 summary: "The University of Osaka has announced SEAFOOD, a new platform integrating the OCTOPUS supercomputer with superconducting quantum computers operated by QIQB."
@@ -33,7 +33,7 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [D3 Center High Performance Computing System — English](https://www.hpc.cmc.osaka-u.ac.jp/en/news/20261109/)
 - [Date Laboratory, D3 Center, The University of Osaka](https://www.ais.d3c.osaka-u.ac.jp/20261109-hpcqc-int-pressrelease/)
 - [Quantum Software Research Hub (QSRH)](https://qsrh.jp/news/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%EF%BC%BC%E3%82%B9%E3%83%91%E3%82%B3%E3%83%B3x%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC/)
-- [Q-Portal, RIKEN](https://q-portal.riken.jp/)
+- [Q-Portal, RIKEN](https://q-portal.riken.jp/topics?lang=ja)
 - [Quantum Technology Innovation Hubs (QIH), RIKEN](https://qih.riken.jp/en/archive.html)
 - [SIP3 Quantum, National Institutes for Quantum Science and Technology (QST)](https://www.qst.go.jp/site/sip3/)
 
@@ -54,6 +54,7 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [Quantum Computing Report — “University of Osaka Integrates Domestic Superconducting Quantum Processors with OCTOPUS Supercomputer via SEAFOOD Platform”](https://quantumcomputingreport.com/university-of-osaka-integrates-domestic-superconducting-quantum-processors-with-octopus-supercomputer-via-seafood-platform/)
 - [Quantum Zeitgeist — “The University of Osaka’s D3 Center and Quantum Information”](https://quantumzeitgeist.com/seafood-osaka-university-quantum-information-d3/)
 - [blueqat news — Japanese-language coverage](https://news.blueqat.app/post/3730)
+- [Science Report — “Osaka Connects OCTOPUS With Domestic Quantum Processors”](https://science.report/discover/osaka-connects-octopus-with-domestic-quantum-processors-120117/)
 - [Mindplex — “Osaka team links quantum computers and a supercomputer in a first for Japan”](https://magazine.mindplex.ai/post/osaka-team-links-quantum-computers-and-a-supercomputer-in-a-first-for-japan)
 - [Quantum Unzipped — “SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu”](https://quantumunzipped.com/briefings/seafood-puts-octopus-and-quantum-computers-on-the-same-menu-2)
 - [Singularity Daily — Korean-language summary and commentary](https://singularitydaily.com/articles/japan-developed-quantum-computers-join-forces-with-a-supercomputer-at-the-university-of-osaka)
