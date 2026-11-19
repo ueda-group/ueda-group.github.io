@@ -1,7 +1,7 @@
 ---
 title: "Press Release: UOsaka Launches the SEAFOOD Quantum–HPC Platform"
 date: 2026-11-09
-lastmod: 2026-11-18
+lastmod: 2026-11-19
 authors:
   - hiroshi-ueda
 summary: "The University of Osaka has announced SEAFOOD, a new platform integrating the OCTOPUS supercomputer with superconducting quantum computers operated by QIQB."
@@ -54,6 +54,7 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [Quantum Computing Report — “University of Osaka Integrates Domestic Superconducting Quantum Processors with OCTOPUS Supercomputer via SEAFOOD Platform”](https://quantumcomputingreport.com/university-of-osaka-integrates-domestic-superconducting-quantum-processors-with-octopus-supercomputer-via-seafood-platform/)
 - [HPCwire — “University of Osaka Links OCTOPUS Supercomputer to Quantum Computers with SEAFOOD”](https://www.hpcwire.com/off-the-wire/university-of-osaka-links-octopus-supercomputer-to-quantum-computers-with-seafood/)
 - [Data Center Dynamics — “University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors”](https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/)
+- [Data Center Café — Japanese-language republication of the Data Center Dynamics coverage](https://cafe-dc.com/hpc/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer/)
 - [Quantum Zeitgeist — “The University of Osaka’s D3 Center and Quantum Information”](https://quantumzeitgeist.com/seafood-osaka-university-quantum-information-d3/)
 - [blueqat news — Japanese-language coverage](https://news.blueqat.app/post/3730)
 - [Science Report — “Osaka Connects OCTOPUS With Domestic Quantum Processors”](https://science.report/discover/osaka-connects-octopus-with-domestic-quantum-processors-120117/)
@@ -68,4 +69,4 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [qputer.com — curated quantum-computing news](https://www.qputer.com/)
 - [AISeng Tech — Quantum Brief, November 11, 2026](https://aisengtech.com/quantum-brief-2026-11-11/)
 
-Near-identical syndication and mirror pages are not listed individually here.
+Near-identical syndication and mirror pages are generally not listed individually here; selected language editions may be included when useful.
