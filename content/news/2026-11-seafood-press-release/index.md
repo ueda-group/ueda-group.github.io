@@ -1,7 +1,7 @@
 ---
 title: "Press Release: UOsaka Launches the SEAFOOD Quantum–HPC Platform"
 date: 2026-11-09
-lastmod: 2026-11-20
+lastmod: 2026-11-24
 authors:
   - hiroshi-ueda
 summary: "The University of Osaka has announced SEAFOOD, a new platform integrating the OCTOPUS supercomputer with superconducting quantum computers operated by QIQB."
@@ -60,6 +60,7 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [Science Report — “Osaka Connects OCTOPUS With Domestic Quantum Processors”](https://science.report/discover/osaka-connects-octopus-with-domestic-quantum-processors-120117/)
 - [FreeQuantumComputing — “Osaka Links Quantum Hardware With OCTOPUS Supercomputer”](https://www.freequantumcomputing.com/blog/osaka-seafood-quantum-hpc-platform/)
 - [Troy Technical — “SEAFOOD Platform: Osaka University’s Quantum-HPC Integration Timeline”](https://troy-technical.com/2026/11/15/seafood-platform-osaka-universitys-quantum-hpc-integration-timeline/)
+- [Troy Technical Japan — “SEAFOODプラットフォーム｜大阪大学が構築する量子・スパコン連携基盤の構成と運用時期”](https://troy-technical.jp/seafood%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%EF%BD%9C%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E3%81%8C%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E9%87%8F%E5%AD%90%E3%83%BB/)
 - [Tomorrow’s Tech Future — “Osaka’s SEAFOOD Links a Quantum Chip to Its Supercomputer”](https://tomorrowstechfuture.com/osaka-seafood-quantum-platform/)
 - [Mindplex — “Osaka team links quantum computers and a supercomputer in a first for Japan”](https://magazine.mindplex.ai/post/osaka-team-links-quantum-computers-and-a-supercomputer-in-a-first-for-japan)
 - [Quantum Unzipped — “University of Osaka Integrates Domestic Superconducting Quantum Processors with OCTOPUS Supercomputer via SEAFOOD Platform”](https://quantumunzipped.com/briefings/university-of-osaka-integrates-domestic-superconducting-quantum-processors-wit-2)
@@ -69,4 +70,4 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [qputer.com — curated quantum-computing news](https://www.qputer.com/)
 - [AISeng Tech — Quantum Brief, November 11, 2026](https://aisengtech.com/quantum-brief-2026-11-11/)
 
-Coverage checked through November 20, 2026. Near-identical syndication and mirror pages are generally not listed individually here; selected language editions may be included when useful.
+Coverage checked through November 24, 2026. Near-identical syndication and mirror pages are generally not listed individually here; selected language editions may be included when useful.
