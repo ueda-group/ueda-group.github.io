@@ -1,7 +1,7 @@
 ---
 title: "Press Release: UOsaka Launches the SEAFOOD Quantum–HPC Platform"
 date: 2026-11-09
-lastmod: 2026-11-26
+lastmod: 2026-11-27
 authors:
   - hiroshi-ueda
 summary: "The University of Osaka has announced SEAFOOD, a new platform integrating the OCTOPUS supercomputer with superconducting quantum computers operated by QIQB."
@@ -71,4 +71,4 @@ In fiscal year 2027, the D3 Center and QIQB plan to provide trial access to SEAF
 - [qputer.com — curated quantum-computing news](https://www.qputer.com/)
 - [AISeng Tech — Quantum Brief, November 11, 2026](https://aisengtech.com/quantum-brief-2026-11-11/)
 
-Coverage checked through November 26, 2026. Near-identical syndication and mirror pages are generally not listed individually here; selected language editions may be included when useful.
+Coverage checked through November 27, 2026. Near-identical syndication and mirror pages are generally not listed individually here; selected language editions may be included when useful.
